@@ -4,7 +4,7 @@ This project investigates the causal effect of advertisement placement (`banner_
 
 ## Project Files
 - `CF_Ads.ipynb`: Jupyter notebook containing code and analysis
-- `train.csv`: Training data used for simulation
+- Kaggle_Ads data: Training data used for simulation(https://www.kaggle.com/competitions/avazu-ctr-prediction/data)
 
 ## Methods Used
 - Data Cleaning and Feature Engineering
