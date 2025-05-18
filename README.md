@@ -37,7 +37,7 @@ pandas, numpy, matplotlib, seaborn, sklearn, statsmodels,grf,causalforests
 - Extend to larger, real-world ad engagement datasets
 - Incorporate Propensity Score Matching (PSM)
 
-##Author
-##Suhruth Krishna Yalamanchili
-##Master of Science in Data Science
-##Indiana University Bloomington
+# Author
+## Suhruth Krishna Yalamanchili
+## Master of Science in Data Science
+## Indiana University Bloomington
