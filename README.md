@@ -38,6 +38,6 @@ pandas, numpy, matplotlib, seaborn, sklearn, statsmodels,grf,causalforests
 - Incorporate Propensity Score Matching (PSM)
 
 # Author
-## Suhruth Krishna Yalamanchili
-## Master of Science in Data Science
-## Indiana University Bloomington
+### Suhruth Krishna Yalamanchili
+### Master of Science in Data Science
+### Indiana University Bloomington
