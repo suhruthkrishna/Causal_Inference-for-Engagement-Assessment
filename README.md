@@ -18,22 +18,22 @@ This project investigates the causal effect of advertisement placement (`banner_
 pandas, numpy, matplotlib, seaborn, sklearn, statsmodels,grf,causalforests
 ```
 
-##Key Findings
+## Key Findings
 
 - Ads displayed at banner_pos = 0 demonstrated a higher engagement rate compared to banner_pos = 1.
 - The effect of banner position on engagement varied across user segments such as age and browsing behavior.
 
-##Visualizations
+## Visualizations
 - Engagement rate distribution plots
 - ATE comparison bar plots
 - HTE grouped bar plots by categorical features
 
-##How to Run
+## How to Run
 - Clone the repository
 - Ensure train.csv is in the working directory
 - Open and run FADS (1).ipynb in Jupyter Notebook
 
-##Future Improvements
+## Future Improvements
 - Extend to larger, real-world ad engagement datasets
 - Incorporate Propensity Score Matching (PSM)
 
